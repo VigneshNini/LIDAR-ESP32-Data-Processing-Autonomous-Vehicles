@@ -1,0 +1,8 @@
+prefix=/home/shobot/nova5vn_ws/install
+
+Name: nova5_moveit_config
+Description: Description of nova5_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: moveit_core moveit_visual_tools moveit_ros_planning_interface interactive_markers tf2_geometry_msgs actionlib_msgs control_msgs message_runtime

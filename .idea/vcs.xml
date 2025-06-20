@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/src/TCP-IP-ROS-6AXis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/TCP-IP-ROS-6AXis/nova5_moveit_config/scripts/TCP-IP-CR-Python-V4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/TCP-IP-ROS-6AXis/opencv_services" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/TCP-IP-ROS-6AXis/realsense-ros" vcs="Git" />
+  </component>
+</project>

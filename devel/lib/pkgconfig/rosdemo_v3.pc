@@ -1,0 +1,8 @@
+prefix=/home/shobot/nova5vn_ws/devel
+
+Name: rosdemo_v3
+Description: Description of rosdemo_v3
+Version: 1.0.0
+Cflags: -I/home/shobot/nova5vn_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs

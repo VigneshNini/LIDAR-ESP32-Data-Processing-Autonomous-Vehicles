@@ -1,0 +1,8 @@
+prefix=/home/shobot/nova5vn_ws/devel
+
+Name: ur5_new
+Description: Description of ur5_new
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
