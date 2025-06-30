@@ -1,8 +1,0 @@
-prefix=/home/shobot/nova5vn_ws/install
-
-Name: u_5
-Description: Description of u_5
-Version: 0.3.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

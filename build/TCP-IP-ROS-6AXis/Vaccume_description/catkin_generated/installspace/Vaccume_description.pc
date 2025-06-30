@@ -1,8 +1,0 @@
-prefix=/home/shobot/nova5vn_ws/install
-
-Name: Vaccume_description
-Description: Description of Vaccume_description
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

@@ -1,8 +1,0 @@
-prefix=/home/shobot/nova5vn_ws/install
-
-Name: me6_moveit
-Description: Description of me6_moveit
-Version: 0.3.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

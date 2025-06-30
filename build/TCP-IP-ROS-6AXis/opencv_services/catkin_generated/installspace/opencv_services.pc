@@ -1,8 +1,0 @@
-prefix=/home/shobot/nova5vn_ws/install
-
-Name: opencv_services
-Description: Description of opencv_services
-Version: 0.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: roscpp sensor_msgs std_msgs cv_bridge image_transport tf2_ros message_runtime
